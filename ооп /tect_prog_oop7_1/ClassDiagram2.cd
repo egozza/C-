@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="plan_mm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAEAgAAIAAAAAAAIAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mmplan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="all">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAACAAAAAAAAAAAAAAAABAAAAAQAAAAAAAACAACA=</HashCode>
+      <FileName>all.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="all_two">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAAgAAIAAAAAAAAAAAAABACAAAAAAAAAAAAAAACg=</HashCode>
+      <FileName>all_two.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="container_two" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgAAAAAAAAAAACAAAAAIAAQAAAAAEAAAABAACA=</HashCode>
+      <FileName>container_two.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
